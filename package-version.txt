@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cycler          0.11.0
 fonttools       4.33.3
 Package         Version
@@ -37,3 +38,44 @@ Requirement already satisfied: matplotlib in c:\users\yavuz\appdata\local\progra
 
 Scikit-learn --Verison
 Requirement already satisfied: scikit-learn in c:\users\zehra\appdata\local\programs\python\python310\lib\site-packages (1.1.1)
+=======
+cycler          0.11.0
+fonttools       4.33.3
+Package         Version
+--------------- -------
+joblib          1.1.0
+kiwisolver      1.4.3
+matplotlib      3.5.2
+numpy           1.22.4
+packaging       21.3
+pandas          1.4.2
+Pillow          9.1.1
+pip             22.1.2
+pyparsing       3.0.9
+python-dateutil 2.8.2
+pytz            2022.1
+scikit-learn    1.1.1
+scipy           1.8.1
+setuptools      58.1.0
+six             1.16.0
+sklearn         0.0 ? (go to the bottom)
+threadpoolctl   3.1.0
+
+
+
+
+Numpy --Version
+Requirement already satisfied: numpy in c:\users\yavuz\appdata\local\programs\python\python310\lib\site-packages (1.22.4)
+
+
+Padas --Verison 
+Requirement already satisfied: pandas in c:\users\yavuz\appdata\local\programs\python\python310\lib\site-packages (1.4.2)
+
+
+Matplotlib --Version 
+Requirement already satisfied: matplotlib in c:\users\yavuz\appdata\local\programs\python\python310\lib\site-packages (3.5.2)
+
+
+Scikit-learn --Verison
+Requirement already satisfied: scikit-learn in c:\users\zehra\appdata\local\programs\python\python310\lib\site-packages (1.1.1)
+>>>>>>> 3d5fead625aa80d3b59fd5b936a285fef85f439a
